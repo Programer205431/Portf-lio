@@ -1,0 +1,119 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    font-family: sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    margin: auto;
+    width: 1000px;
+}
+
+ul {
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+nav {
+    background: #9a67ff;
+    font-size: 0;
+    position: relative;
+    border-bottom: #31a5e6 solid 10px;
+    border-radius: 10px;
+}
+
+nav > ul > li {
+    display: inline-block;
+    font-size: 14px;
+    padding: 0 15px;
+    position: relative;
+}
+
+nav > ul > li > a {
+    color: #fff;
+    display: block;
+    padding: 20px 0;
+    border-bottom: 3px solid transparent;
+    transition: all 0.3s ease;
+}
+
+nav > ul > li:hover > a {
+    color: #000;
+    border-bottom: 3px solid #eb8847;
+}
+
+.footer {
+    background-color: #8C52FF;
+    font-family: 'Courier New', Courier, monospace;
+    border: #31a5e6 solid 5px;
+    text-align: center;
+    padding: 5px 0;
+    color: #FFFFFF;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+/* Estilização da barra de pesquisa */
+.search-box {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    border: 2px solid #8C52FF;
+    border-radius: 25px;
+    padding: 5px 10px;
+    width: 250px;
+    transition: all 0.3s ease-in-out;
+}
+
+.search-box:hover {
+    box-shadow: 0 0 10px rgba(140, 82, 255, 0.5);
+}
+
+/* Estilização do campo de texto */
+.search-txt {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    padding: 5px;
+    color: #333;
+    font-family: sans-serif;
+}
+
+/* Placeholder da barra de pesquisa */
+.search-txt::placeholder {
+    color: #aaa;
+    font-style: italic;
+}
+
+/* Estilização da lupa */
+.search-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #8C52FF;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search-btn:hover {
+    background-color: #31a5e6;
+}
+
+.search-btn i {
+    font-size: 16px;
+}
