@@ -1,5 +1,0 @@
-x=int(input("digite um valor: "))
-y=int(input("digite um valor: "))
-z=int(input("digite um valor: "))
-r=(x*5+y*2.5+z*2.5)/(5+2.5+2.5)
-print(f"a media ponderada é: {r}")
