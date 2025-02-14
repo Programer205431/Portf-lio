@@ -1,0 +1,6 @@
+Se trata do projeto do meu grupo da faculdade onde deveríamos criar um robo sumo, fiquei responsável pela programação e aparte mecânica para desenvolver 
+soluções para proteção dos componentes eletrônicos.
+
+OBSERVAÇÕES:
+A plataforma foi comprada da empresa robocore, eu desenvolvi apenas a proteção da parte eletrônica presente nas fotos.
+link do chassi:https://www.robocore.net/robotica-robocore/plataforma-robotica-rocket-tank
