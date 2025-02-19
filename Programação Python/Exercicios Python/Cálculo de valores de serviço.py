@@ -3,14 +3,7 @@
 
 
 
-int p
-
-
-
-
-
-
-rincipal ()
+int principal ()
 {
     
     float area, precoFinal, custo, desconto1, desconto2, erva = 50 , gafanhoto = 100 , broca = 150 , todos = 250 ;
