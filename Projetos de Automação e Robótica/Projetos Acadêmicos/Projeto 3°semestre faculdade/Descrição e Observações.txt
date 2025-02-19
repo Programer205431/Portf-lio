@@ -1,4 +1,4 @@
-Se trata do projeto do meu grupo da faculdade onde deveríamos criar um robo sumo, fiquei responsável pela programação e aparte mecânica para desenvolver 
+Se trata do projeto do meu grupo da faculdade onde deveríamos criar um robo sumo, fiquei responsável pela programação e a parte mecânica para desenvolver 
 soluções para proteção dos componentes eletrônicos.
 
 OBSERVAÇÕES:
