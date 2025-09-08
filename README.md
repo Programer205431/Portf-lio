@@ -5,14 +5,18 @@ Meu nome é **Kaike Elias Ferreira dos Anjos**, sou aluno da **FATEC São José 
 Adicionalmente, sou formado como Técnico em Análise e Desenvolvimento de Sistemas pela ETEC Machado de Assis, o que me ajudou a desenvolver conhecimentos em programação e o processo necessário desenvolver um sistema de software.  
 
 
+---
+
+
 ## Objetivo
 
 Este portfólio reúne projetos acadêmicos e pessoais desenvolvidos nas áreas de programação, automação industrial e desenvolvimento de sistemas. O objetivo é demonstrar conhecimentos técnicos adquiridos ao longo de minhas formações acadêmicas, bem como a aplicação prática de conceitos fundamentais em cada área.
 
 
-Os projetos apresentados abrangem desde exercícios introdutórios a projetos, evidenciando uma evolução contínua.
----
+Os projetos apresentados abrangem desde exercícios introdutórios a projetos.
 
+
+---
 
 
 ## Estrutura do Portfólio
