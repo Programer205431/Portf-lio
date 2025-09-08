@@ -1,2 +1,0 @@
-Se trata de um código para ESP32, no qual ele estabelece uma comunicação serial com arduino usando os pinos rx e tx, se eu enviar um comando por um celular via bluetooth para ESP32, 
-a ESP32 irá repassar para arduíno pela comunicação serial feita com os pinos mencionados anteriormente, fazendo  assim, o papel do módulo HC-05, servindo de módulo bluetooth improvisado.
