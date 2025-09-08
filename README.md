@@ -2,7 +2,7 @@
 
 Meu nome é **Kaike Elias Ferreira dos Anjos**, sou aluno da **FATEC São José dos Campos – Prof. Jessen Vidal**, atualmente cursando o 5º semestre do curso de **Tecnólogo em Manufatura Avançada**, com foco em **Robótica, Automação Industrial e Projetos**.  
 
-Adicionalmente, sou formado como **Técnico em Análise e Desenvolvimento de Sistemas** pela **ETEC Machado de Assis**, o que me ajudou a desenvolver conhecimentos em programação e o processo necessário para desenvolver um sistema de software.  
+Adicionalmente, sou formado como **Técnico em Análise e Desenvolvimento de Sistemas** pela **ETEC Machado de Assis**, o que me ajudou a desenvolver conhecimentos em programação e o processo necessário para desenvolver um software.  
 
 
 ---
