@@ -1,1 +1,0 @@
-Neste código, um servo motor atua como mecanismo de trava, realizando o movimento de destravamento assim que o cartão RFID é autenticado
