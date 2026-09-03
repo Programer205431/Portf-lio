@@ -1,7 +1,0 @@
-Plataforma desenvolvida por autoria própria em mdf, utilizando comunicação bluetooth da esp32, ela envia os comandos recebidos via bluetooth
-utilizando pinos rx e tx para o arduino, que por usa vez envia
-os comandos aos motores, projeto conta com outros componentes como o sensor ultrassônico hc-sr04 e leds comuns,
-onde toda vez que um obstáculo é detectado ele acende o led em sinal de alerta, a esp32 executa a função que um módulo bluetooth hc-05 estaria fazendo
-
-OBSERVAÇÕES:
-Código esp32 tem acréscimo de outros sensores, estão funcionais, porém testes não foram gravados
